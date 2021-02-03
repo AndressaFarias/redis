@@ -1,3 +1,4 @@
+# Comandos
 redis-cli --version
 systemctl start redis-server
 
